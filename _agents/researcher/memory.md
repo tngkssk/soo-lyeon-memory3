@@ -14,3 +14,5 @@ _Researcher 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 
 - [2026-05-02] Business와 Writer가 도출한 초기 고객 메시지 및 가격 구조에 대해 경쟁사 가격 데이터와 시장 수요 데이터를 최종적으로 검증하고, Silver Tier의 포지셔닝을 강화할 수 있는 구체적인 근거를 3가지 이상 제시하라. → 산출물 sessions/2026-05-02T22-25/researcher.md
 - [2026-05-02] 제안된 '시스템 통합 가치'에 대한 고객의 실제 지불 의향(WTP)과 핵심 Pain Point 데이터를 수집하고 분석하여, Silver Tier 수익화 모델의 근거를 마련할 수 있는 구체적인 시장 데이터를 확보하라. → 산출물 sessions/2026-05-02T23-10/researcher.md
 - [2026-05-03] Silver Tier 시스템 통합 서비스와 관련된 주요 경쟁사의 가격 구조 데이터 및 고객 Pain Point 비용 데이터를 즉시 수집, 분석하여 WTP(Willingness to Pay) 확보에 필요한 정량적 근거를 도출하라. → 산출물 sessions/2026-05-03T00-25/researcher.md
+- [2026-05-03] 수익화 모델에 필요한 고객 지불 의향(WTP) 및 Pain Point 데이터를 최종 검증하고, 가장 강력한 수치 기반 근거를 정리하여 Writer에게 전달할 준비를 하세요. → 산출물 sessions/2026-05-03T19-48/researcher.md
+- [2026-05-03] Writer와 Designer가 작업하는 동안, 확정된 가격 모델(Silver Tier)에 맞춰 초기 고객 확보를 위한 가장 효과적인 Pain Point 기반의 Lead Magnet 전략 3가지를 구체화하여 제시한다. → 산출물 sessions/2026-05-03T20-33/researcher.md
