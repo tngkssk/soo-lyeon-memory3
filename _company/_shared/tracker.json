@@ -1,0 +1,55 @@
+{
+  "tasks": [
+    {
+      "id": "20260521224838-nwoa",
+      "title": "모든 조항이 Silver/Gold Tier 의 기능 범위와 일치하는지 확인.",
+      "description": "자동 등록 (Writer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "writer"
+      ],
+      "createdAt": "2026-05-21T22:48:38.344Z",
+      "status": "done",
+      "sessionDir": "2026-05-21T21-55",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-21T21-55/_report.md\n- 현빈: 최종 확정된 시스템 통합 거버넌스 기반의 수익화 모델(가격 구조 및 리테이너 조건)과 LTV 예측 시나리오를 최종 검토하고, 현재 상태에서 가장\n- Designer: 최종 확정된 'The Control Panel' 기반 디자인 시안과 카피라이팅('시스템 통제권' 메시지)이 수익화 목표를 극대화하는지 최종 검토\n- Writer: business 에이전트가 정리한 최종 수익화 메시지(USP)와 KPI를 기반으로, 고객에게 제시할 최종 서비스 계약서 초안의 핵심 요소 및 랜\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 💼 현빈 _(비즈니스 전략가 · Head of Business)_\n> 📋 **지시**: 최종 확정된 시스템 통합 거버넌스 기반의 수익화 모델(가격 구조 및 리테이너 조건)과 LTV 예측 시나리오를 최종 검토하고, 현재 상태에서 가장 효과적인 마케팅 메시지 KPI를 명확히 정리하라.\n> 🔧 **도구 실행",
+      "completedAt": "2026-05-21T22:54:50.920Z"
+    },
+    {
+      "id": "20260521224838-buhb",
+      "title": "SLA 조항에서 '통제권'을 보장한다는 메시지가 명확한가? (예: \"고객의 시스템 통제권 확보를 위한 24 시간 대응\")",
+      "description": "자동 등록 (Writer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "writer"
+      ],
+      "createdAt": "2026-05-21T22:48:38.364Z",
+      "status": "done",
+      "sessionDir": "2026-05-21T21-55",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-21T21-55/_report.md\n- 현빈: 최종 확정된 시스템 통합 거버넌스 기반의 수익화 모델(가격 구조 및 리테이너 조건)과 LTV 예측 시나리오를 최종 검토하고, 현재 상태에서 가장\n- Designer: 최종 확정된 'The Control Panel' 기반 디자인 시안과 카피라이팅('시스템 통제권' 메시지)이 수익화 목표를 극대화하는지 최종 검토\n- Writer: business 에이전트가 정리한 최종 수익화 메시지(USP)와 KPI를 기반으로, 고객에게 제시할 최종 서비스 계약서 초안의 핵심 요소 및 랜\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 💼 현빈 _(비즈니스 전략가 · Head of Business)_\n> 📋 **지시**: 최종 확정된 시스템 통합 거버넌스 기반의 수익화 모델(가격 구조 및 리테이너 조건)과 LTV 예측 시나리오를 최종 검토하고, 현재 상태에서 가장 효과적인 마케팅 메시지 KPI를 명확히 정리하라.\n> 🔧 **도구 실행",
+      "completedAt": "2026-05-21T22:54:50.937Z"
+    },
+    {
+      "id": "20260521224838-drrp",
+      "title": "데이터 보안 관련 조항이 고객사의 내부 규정과 충돌하지 않는지 검토.",
+      "description": "자동 등록 (Writer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "writer"
+      ],
+      "createdAt": "2026-05-21T22:48:38.392Z",
+      "status": "done",
+      "sessionDir": "2026-05-21T21-55",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-21T21-55/_report.md\n- 현빈: 최종 확정된 시스템 통합 거버넌스 기반의 수익화 모델(가격 구조 및 리테이너 조건)과 LTV 예측 시나리오를 최종 검토하고, 현재 상태에서 가장\n- Designer: 최종 확정된 'The Control Panel' 기반 디자인 시안과 카피라이팅('시스템 통제권' 메시지)이 수익화 목표를 극대화하는지 최종 검토\n- Writer: business 에이전트가 정리한 최종 수익화 메시지(USP)와 KPI를 기반으로, 고객에게 제시할 최종 서비스 계약서 초안의 핵심 요소 및 랜\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 💼 현빈 _(비즈니스 전략가 · Head of Business)_\n> 📋 **지시**: 최종 확정된 시스템 통합 거버넌스 기반의 수익화 모델(가격 구조 및 리테이너 조건)과 LTV 예측 시나리오를 최종 검토하고, 현재 상태에서 가장 효과적인 마케팅 메시지 KPI를 명확히 정리하라.\n> 🔧 **도구 실행",
+      "completedAt": "2026-05-21T22:54:50.962Z"
+    }
+  ]
+}
