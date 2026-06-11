@@ -2918,5 +2918,37 @@
     "category": "general",
     "source": "plaza",
     "verified": false
+  },
+  {
+    "id": "n17811843530692126",
+    "text": "💡 광장에서 배움 — 주제: 실험 과학 패러다임 필요",
+    "tags": [
+      "광장에서",
+      "배움",
+      "주제",
+      "실험",
+      "과학",
+      "패러다임"
+    ],
+    "ts": 1781184353070,
+    "category": "general",
+    "source": "plaza",
+    "verified": false
+  },
+  {
+    "id": "n17811843530803038",
+    "text": "💡 광장에서 배움 — 주제: 예측 불가능한 상호작용 강화",
+    "tags": [
+      "광장에서",
+      "배움",
+      "주제",
+      "예측",
+      "불가능한",
+      "상호작용"
+    ],
+    "ts": 1781184353080,
+    "category": "general",
+    "source": "plaza",
+    "verified": false
   }
 ]
